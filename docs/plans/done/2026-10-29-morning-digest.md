@@ -93,5 +93,5 @@ Done when: the preview link no longer shows the lane marker.
 | 8 | Clean up | #7, review | claude-code · opus-5.5 · default | 2026-11-17 |
 
 #7 was closed when the link was sent and reopened until the reviewer had looked. The preview link
-lost its marker the same day the review came in (ADR 0003); the marked upload stays behind the host's
-deployment protection.
+lost its marker the same day the review came in (ADR 0003); the marked upload was then deleted from the
+host.
